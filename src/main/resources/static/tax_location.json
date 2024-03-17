@@ -1,0 +1,83 @@
+
+[
+  {
+    "location": "Austria",
+    "taxRates": [10, 13, 20]
+  },
+  {
+    "location": "Belgium",
+    "taxRates": [6, 12, 21]
+  },
+  {
+    "location": "Bulgaria",
+    "taxRates": [9, 20]
+  },
+  {
+    "location": "Croatia",
+    "taxRates": [5, 13, 25]
+  },
+  {
+    "location": "Cyprus",
+    "taxRates": [5, 9, 19]
+  },
+  {
+    "location": "Czech Republic",
+    "taxRates": [10, 15, 21]
+  },
+  {
+    "location": "Denmark",
+    "taxRates": [25]
+  },
+  {
+    "location": "Estonia",
+    "taxRates": [9, 20]
+  },
+  {
+    "location": "Finland",
+    "taxRates": [10, 14, 24]
+  },
+  {
+    "location": "France",
+    "taxRates": [2.1, 5.5, 10, 20]
+  },
+  {
+    "location": "Germany",
+    "taxRates": [7, 19]
+  },
+  {
+    "location": "Greece",
+    "taxRates": [6, 13, 24]
+  },
+  {
+    "location": "Hungary",
+    "taxRates": [5, 18, 27]
+  },
+  {
+    "location": "Ireland",
+    "taxRates": [4.8, 9, 13.5, 23]
+  },
+  {
+    "location": "Italy",
+    "taxRates": [4, 10, 22]
+  },
+  {
+    "location": "Latvia",
+    "taxRates": [12, 21]
+  },
+  {
+    "location": "Lithuania",
+    "taxRates": [5, 9, 21]
+  },
+  {
+    "location": "Luxembourg",
+    "taxRates": [3, 8, 17]
+  },
+  {
+    "location": "Malta",
+    "taxRates": [5, 7, 18]
+  },
+  {
+    "location": "Netherlands",
+    "taxRates": [6, 21]
+  }
+]
